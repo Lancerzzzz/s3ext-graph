@@ -1,0 +1,6 @@
+{
+    "name": "graph",
+    "type": "scratch3",
+    "extensions": ["graph"],
+    "image": "graph.png"
+}
